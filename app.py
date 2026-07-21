@@ -17,7 +17,7 @@ st.set_page_config(
 # ----------------------------
 # Model Configuration
 # ----------------------------
-MODEL_URL = "https://github.com/malipriti210/DL-CNN-Helmet_detection/releases/download/v1.0/helmet_final.keras"
+MODEL_URL = "https://github.com/malipriti210/DL_CNN_Helmet_Detection/releases/download/v1.0/helmet_final.keras"
 MODEL_PATH = "helmet_final.keras"
 
 
